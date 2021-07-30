@@ -1,1 +1,1 @@
-# photographyzone.github.io
+# photography.github.io
